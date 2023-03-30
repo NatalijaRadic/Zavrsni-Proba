@@ -1,0 +1,22 @@
+{
+  "name": "zavrsni-proba",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NatalijaRadic/Zavrsni-Proba.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NatalijaRadic/Zavrsni-Proba/issues"
+  },
+  "homepage": "https://github.com/NatalijaRadic/Zavrsni-Proba#readme",
+  "devDependencies": {
+    "cypress": "^12.9.0"
+  }
+}
